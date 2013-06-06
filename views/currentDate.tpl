@@ -1,0 +1,1 @@
+So, the current date is: {$date}
